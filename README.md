@@ -9,7 +9,7 @@
 
 ## Overview of the Project  
 
-### Project: SENTIMENT ANALYSIS USING LSTM ON IMDB DATASET  
+### Project: ANALYSIS ON MOVIE REVIEWS 
 ![Screenshot](https://github.com/MOHAN1665/CODTECH-Task2/blob/main/image.png)
 
 ### Objective  
